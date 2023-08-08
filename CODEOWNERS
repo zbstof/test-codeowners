@@ -1,0 +1,4 @@
+# catch-all for all files, unless overwritten
+* @zbstof
+# explicitly remove owner from readme
+/README.md
